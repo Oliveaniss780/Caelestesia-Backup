@@ -1,0 +1,92 @@
+{
+    "appearance": {
+        "font": {
+            "family": {
+                "mono": "JetBrainsMono Nerd Font",
+                "sans": "JetBrainsMono Nerd Font"
+            }
+        },
+        "padding": {
+            "scale": 0.9850846243633277
+        },
+        "rounding": {
+            "scale": 0.9885929541595926
+        },
+        "spacing": {
+            "scale": 0.9850176411290322
+        },
+        "transparency": {
+            "base": 0.5,
+            "enabled": true,
+            "layers": 0.3
+        }
+    },
+    "background": {
+        "desktopClock": {
+            "background": {
+                "enabled": true,
+                "opacity": 0.7117939505347592
+            },
+            "invertColors": false
+        },
+        "enabled": true,
+        "visualiser": {
+            "autoHide": true,
+            "blur": true,
+            "enabled": true,
+            "rounding": 1,
+            "spacing": 1
+        },
+        "wallpaperEnabled": true
+    },
+    "bar": {
+        "clock": {
+            "background": true,
+            "showDate": true
+        },
+        "dragThreshold": 20,
+        "scrollActions": {
+            "brightness": true
+        },
+        "status": {
+            "showAudio": true,
+            "showKbLayout": false,
+            "showMicrophone": true,
+            "showNetwork": true
+        },
+        "tray": {
+            "background": false,
+            "compact": false,
+            "recolour": false
+        },
+        "workspaces": {
+            "occupiedBg": false
+        }
+    },
+    "border": {
+        "rounding": 15,
+        "thickness": 6
+    },
+    "general": {
+        "logo": "/home/sannur/.config/quickshell/caelestia/assets/logo.svg",
+        "mediaGifSpeedAdjustment": 200,
+        "sessionGifSpeed": 1.5
+    },
+    "lock": {
+        "hideNotifs": false,
+        "recolourLogo": true
+    },
+    "paths": {
+        "mediaGif": "/home/sannur/Unduhan/kucing-scuba-cat.gif",
+        "sessionGif": "/home/sannur/Unduhan/kucing-scuba-cat.gif"
+    },
+    "services": {
+        "smartScheme": true,
+        "visualiserBars": 45
+    },
+    "utilities": {
+        "toasts": {
+            "nowPlaying": true
+        }
+    }
+}
