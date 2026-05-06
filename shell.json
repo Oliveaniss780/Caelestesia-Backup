@@ -1,0 +1,56 @@
+{
+    "appearance": {
+        "padding": {
+            "scale": 0.9850846243633277
+        },
+        "rounding": {
+            "scale": 0.9885929541595926
+        },
+        "spacing": {
+            "scale": 0.9850176411290322
+        },
+        "transparency": {
+            "base": 0.5,
+            "enabled": true,
+            "layers": 0.3
+        }
+    },
+    "background": {
+        "desktopClock": {
+            "background": {
+                "enabled": true,
+                "opacity": 0.7117939505347592
+            },
+            "invertColors": false
+        },
+        "enabled": true,
+        "wallpaperEnabled": true
+    },
+    "bar": {
+        "clock": {
+            "background": false,
+            "showDate": true
+        },
+        "status": {
+            "showAudio": true,
+            "showMicrophone": true,
+            "showNetwork": true
+        }
+    },
+    "border": {
+        "rounding": 15
+    },
+    "general": {
+        "mediaGifSpeedAdjustment": 100,
+        "sessionGifSpeed": 1.5
+    },
+    "paths": {
+        "mediaGif": "/home/sannur/Unduhan/kucing-scuba-cat.gif",
+        "sessionGif": "/home/sannur/Unduhan/kucing-scuba-cat.gif"
+    },
+    "utilities": {
+        "toasts": {
+            "nowPlaying": true
+        }
+    }
+}
